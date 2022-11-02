@@ -1,0 +1,14 @@
+.dry {
+  :global{
+    .card{
+      width: 250px;
+      margin: 20px;
+      align-items: center;
+      height: 300px;
+      border: dashed #8eb5fd 1px ;
+      display: inline-flex;
+       flex-direction: column;
+      justify-content: space-between;
+    }
+  }
+}

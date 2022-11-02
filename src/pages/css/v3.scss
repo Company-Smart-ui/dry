@@ -1,0 +1,21 @@
+.box1 , .box2 ,.box3{
+  height: 50px;
+  width: 50px;
+  border: solid black 1px;
+  display: inline-flex;
+  margin: 3px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.box1{
+  background-color: #ce7474;
+}
+
+.box2{
+  background-color: #38cc93;
+}
+.box3{
+  background-color: #4571c2;
+}
